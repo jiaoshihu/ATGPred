@@ -19,7 +19,7 @@ For convenience, we strongly recommended users to install the Anaconda Python 3.
 
 
 # 3 Running
-Changing working dir to ATGPred-master, and then running the following command:
+Changing working dir to ATGPred-main, and then running the following command:
 
 python ATGPred.py -i test.fasta -o prediction_results.csv
 
