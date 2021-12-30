@@ -23,4 +23,5 @@ Changing working dir to ATGPred-master, and then running the following command:
 python ATGPred.py -i test.fasta -o prediction_results.csv
 
 -i: input file in fasta format
+
 -o output file name
