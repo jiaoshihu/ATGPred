@@ -1,4 +1,4 @@
-# ATGPred-FL
+# ATGPred
 
 # 1 Description
 Autophagy is a conservative ‘self-eating’ process during biological evolution. Accurately identification of autophagy proteins (ATGs) is crucially important to reveal their biological functions. Here, we developed the first machine learning-based software that enables the classification of proteins into ATGs or non-ATGs. ATGPred-FL, which identifies ATGs using feature representation learning scheme and support vector machine algorithm. It has the potential to facilitate future computational work in this field.
