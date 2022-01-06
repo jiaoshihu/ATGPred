@@ -1,0 +1,77 @@
+,Sequence_name,Prediction,probability
+0,sp|Q08830|FGL1_HUMAN Fibrinogen-like protein 1 OS=Homo sapiens OX=9606 GN=FGL1 PE=1 SV=3,Autophagy Protein,80.07%
+1,sp|O75636|FCN3_HUMAN Ficolin-3 OS=Homo sapiens OX=9606 GN=FCN3 PE=1 SV=2,Non-autophagy protein,79.85%
+2,sp|P02679|FIBG_HUMAN Fibrinogen gamma chain OS=Homo sapiens OX=9606 GN=FGG PE=1 SV=3,Autophagy Protein,88.97%
+3,sp|P02671|FIBA_HUMAN Fibrinogen alpha chain OS=Homo sapiens OX=9606 GN=FGA PE=1 SV=2,Non-autophagy protein,96.43%
+4,sp|P02675|FIBB_HUMAN Fibrinogen beta chain OS=Homo sapiens OX=9606 GN=FGB PE=1 SV=2,Non-autophagy protein,81.34%
+5,sp|O00602|FCN1_HUMAN Ficolin-1 OS=Homo sapiens OX=9606 GN=FCN1 PE=1 SV=2,Non-autophagy protein,96.82%
+6,sp|Q14314|FGL2_HUMAN Fibroleukin OS=Homo sapiens OX=9606 GN=FGL2 PE=1 SV=1,Non-autophagy protein,93.52%
+7,sp|Q9BY76|ANGL4_HUMAN Angiopoietin-related protein 4 OS=Homo sapiens OX=9606 GN=ANGPTL4 PE=1 SV=2,Non-autophagy protein,90.12%
+8,sp|Q15485|FCN2_HUMAN Ficolin-2 OS=Homo sapiens OX=9606 GN=FCN2 PE=1 SV=2,Non-autophagy protein,96.87%
+9,sp|Q8N539|FBCD1_HUMAN Fibrinogen C domain-containing protein 1 OS=Homo sapiens OX=9606 GN=FIBCD1 PE=1 SV=2,Non-autophagy protein,97.27%
+10,sp|O95073|FSBP_HUMAN Fibrinogen silencer-binding protein OS=Homo sapiens OX=9606 GN=FSBP PE=1 SV=1,Autophagy Protein,97.48%
+11,sp|O15123|ANGP2_HUMAN Angiopoietin-2 OS=Homo sapiens OX=9606 GN=ANGPT2 PE=1 SV=1,Autophagy Protein,71.97%
+12,sp|Q9UQP3|TENN_HUMAN Tenascin-N OS=Homo sapiens OX=9606 GN=TNN PE=1 SV=2,Non-autophagy protein,99.59%
+13,sp|P22105|TENX_HUMAN Tenascin-X OS=Homo sapiens OX=9606 GN=TNXB PE=1 SV=5,Non-autophagy protein,99.92%
+14,sp|Q9Y264|ANGP4_HUMAN Angiopoietin-4 OS=Homo sapiens OX=9606 GN=ANGPT4 PE=1 SV=1,Non-autophagy protein,59.18%
+15,sp|Q15389|ANGP1_HUMAN Angiopoietin-1 OS=Homo sapiens OX=9606 GN=ANGPT1 PE=1 SV=2,Non-autophagy protein,85.51%
+16,sp|Q9Y5C1|ANGL3_HUMAN Angiopoietin-related protein 3 OS=Homo sapiens OX=9606 GN=ANGPTL3 PE=1 SV=1,Autophagy Protein,96.27%
+17,sp|P08514|ITA2B_HUMAN Integrin alpha-IIb OS=Homo sapiens OX=9606 GN=ITGA2B PE=1 SV=3,Non-autophagy protein,99.72%
+18,sp|P05106|ITB3_HUMAN Integrin beta-3 OS=Homo sapiens OX=9606 GN=ITGB3 PE=1 SV=2,Non-autophagy protein,99.53%
+19,sp|P24821|TENA_HUMAN Tenascin OS=Homo sapiens OX=9606 GN=TNC PE=1 SV=3,Non-autophagy protein,99.87%
+20,sp|Q92752|TENR_HUMAN Tenascin-R OS=Homo sapiens OX=9606 GN=TNR PE=1 SV=3,Non-autophagy protein,99.84%
+21,sp|P55083|MFAP4_HUMAN Microfibril-associated glycoprotein 4 OS=Homo sapiens OX=9606 GN=MFAP4 PE=1 SV=2,Non-autophagy protein,75.61%
+22,sp|O43827|ANGL7_HUMAN Angiopoietin-related protein 7 OS=Homo sapiens OX=9606 GN=ANGPTL7 PE=1 SV=1,Autophagy Protein,58.94%
+23,sp|Q8WWA0|ITLN1_HUMAN Intelectin-1 OS=Homo sapiens OX=9606 GN=ITLN1 PE=1 SV=1,Non-autophagy protein,85.69%
+24,sp|P78357|CNTP1_HUMAN Contactin-associated protein 1 OS=Homo sapiens OX=9606 GN=CNTNAP1 PE=1 SV=1,Non-autophagy protein,99.80%
+25,sp|Q9UHC6|CNTP2_HUMAN Contactin-associated protein-like 2 OS=Homo sapiens OX=9606 GN=CNTNAP2 PE=1 SV=1,Non-autophagy protein,99.74%
+26,sp|P00747|PLMN_HUMAN Plasminogen OS=Homo sapiens OX=9606 GN=PLG PE=1 SV=2,Non-autophagy protein,98.33%
+27,sp|O95071|UBR5_HUMAN E3 ubiquitin-protein ligase UBR5 OS=Homo sapiens OX=9606 GN=UBR5 PE=1 SV=2,Non-autophagy protein,97.67%
+28,sp|P21980|TGM2_HUMAN Protein-glutamine gamma-glutamyltransferase 2 OS=Homo sapiens OX=9606 GN=TGM2 PE=1 SV=2,Non-autophagy protein,99.47%
+29,sp|P20231|TRYB2_HUMAN Tryptase beta-2 OS=Homo sapiens OX=9606 GN=TPSB2 PE=1 SV=2,Non-autophagy protein,81.22%
+30,sp|P07996|TSP1_HUMAN Thrombospondin-1 OS=Homo sapiens OX=9606 GN=THBS1 PE=1 SV=2,Non-autophagy protein,98.40%
+31,sp|Q15661|TRYB1_HUMAN Tryptase alpha/beta-1 OS=Homo sapiens OX=9606 GN=TPSAB1 PE=1 SV=1,Non-autophagy protein,81.22%
+32,sp|P49746|TSP3_HUMAN Thrombospondin-3 OS=Homo sapiens OX=9606 GN=THBS3 PE=1 SV=1,Non-autophagy protein,99.40%
+33,sp|P35442|TSP2_HUMAN Thrombospondin-2 OS=Homo sapiens OX=9606 GN=THBS2 PE=1 SV=2,Non-autophagy protein,98.95%
+34,sp|Q9UKU9|ANGL2_HUMAN Angiopoietin-related protein 2 OS=Homo sapiens OX=9606 GN=ANGPTL2 PE=1 SV=1,Non-autophagy protein,87.94%
+35,sp|P00488|F13A_HUMAN Coagulation factor XIII A chain OS=Homo sapiens OX=9606 GN=F13A1 PE=1 SV=4,Non-autophagy protein,99.37%
+36,"sp|P13645|K1C10_HUMAN Keratin, type I cytoskeletal 10 OS=Homo sapiens OX=9606 GN=KRT10 PE=1 SV=6",Non-autophagy protein,92.19%
+37,sp|P50750|CDK9_HUMAN Cyclin-dependent kinase 9 OS=Homo sapiens OX=9606 GN=CDK9 PE=1 SV=3,Non-autophagy protein,90.67%
+38,sp|P08697|A2AP_HUMAN Alpha-2-antiplasmin OS=Homo sapiens OX=9606 GN=SERPINF2 PE=1 SV=3,Non-autophagy protein,53.62%
+39,sp|P43235|CATK_HUMAN Cathepsin K OS=Homo sapiens OX=9606 GN=CTSK PE=1 SV=1,Non-autophagy protein,93.20%
+40,sp|Q8WYK1|CNTP5_HUMAN Contactin-associated protein-like 5 OS=Homo sapiens OX=9606 GN=CNTNAP5 PE=2 SV=1,Non-autophagy protein,98.90%
+41,sp|Q8WWU7|ITLN2_HUMAN Intelectin-2 OS=Homo sapiens OX=9606 GN=ITLN2 PE=2 SV=1,Non-autophagy protein,91.97%
+42,sp|P33151|CADH5_HUMAN Cadherin-5 OS=Homo sapiens OX=9606 GN=CDH5 PE=1 SV=5,Non-autophagy protein,81.63%
+43,sp|O95841|ANGL1_HUMAN Angiopoietin-related protein 1 OS=Homo sapiens OX=9606 GN=ANGPTL1 PE=2 SV=1,Non-autophagy protein,67.90%
+44,sp|P02751|FINC_HUMAN Fibronectin OS=Homo sapiens OX=9606 GN=FN1 PE=1 SV=5,Non-autophagy protein,99.85%
+45,sp|O15552|FFAR2_HUMAN Free fatty acid receptor 2 OS=Homo sapiens OX=9606 GN=FFAR2 PE=1 SV=1,Non-autophagy protein,86.18%
+46,sp|Q99828|CIB1_HUMAN Calcium and integrin-binding protein 1 OS=Homo sapiens OX=9606 GN=CIB1 PE=1 SV=4,Autophagy Protein,96.87%
+47,sp|Q08722|CD47_HUMAN Leukocyte surface antigen CD47 OS=Homo sapiens OX=9606 GN=CD47 PE=1 SV=1,Non-autophagy protein,91.34%
+48,sp|P05107|ITB2_HUMAN Integrin beta-2 OS=Homo sapiens OX=9606 GN=ITGB2 PE=1 SV=2,Non-autophagy protein,99.64%
+49,sp|P18627|LAG3_HUMAN Lymphocyte activation gene 3 protein OS=Homo sapiens OX=9606 GN=LAG3 PE=1 SV=5,Non-autophagy protein,96.53%
+50,sp|Q96NU0|CNT3B_HUMAN Contactin-associated protein-like 3B OS=Homo sapiens OX=9606 GN=CNTNAP3B PE=2 SV=3,Non-autophagy protein,99.67%
+51,sp|Q9C0A0|CNTP4_HUMAN Contactin-associated protein-like 4 OS=Homo sapiens OX=9606 GN=CNTNAP4 PE=1 SV=3,Non-autophagy protein,98.80%
+52,sp|Q9BZ76|CNTP3_HUMAN Contactin-associated protein-like 3 OS=Homo sapiens OX=9606 GN=CNTNAP3 PE=2 SV=3,Non-autophagy protein,99.68%
+53,sp|P23142|FBLN1_HUMAN Fibulin-1 OS=Homo sapiens OX=9606 GN=FBLN1 PE=1 SV=4,Non-autophagy protein,99.17%
+54,sp|Q14520|HABP2_HUMAN Hyaluronan-binding protein 2 OS=Homo sapiens OX=9606 GN=HABP2 PE=1 SV=1,Non-autophagy protein,91.79%
+55,sp|Q86XS5|ANGL5_HUMAN Angiopoietin-related protein 5 OS=Homo sapiens OX=9606 GN=ANGPTL5 PE=1 SV=3,Autophagy Protein,61.65%
+56,sp|Q8NI99|ANGL6_HUMAN Angiopoietin-related protein 6 OS=Homo sapiens OX=9606 GN=ANGPTL6 PE=1 SV=1,Non-autophagy protein,99.61%
+57,sp|O76076|CCN5_HUMAN CCN family member 5 OS=Homo sapiens OX=9606 GN=CCN5 PE=1 SV=1,Non-autophagy protein,98.11%
+58,sp|P05160|F13B_HUMAN Coagulation factor XIII B chain OS=Homo sapiens OX=9606 GN=F13B PE=1 SV=3,Non-autophagy protein,98.89%
+59,sp|P08648|ITA5_HUMAN Integrin alpha-5 OS=Homo sapiens OX=9606 GN=ITGA5 PE=1 SV=2,Non-autophagy protein,98.94%
+60,sp|P11215|ITAM_HUMAN Integrin alpha-M OS=Homo sapiens OX=9606 GN=ITGAM PE=1 SV=2,Non-autophagy protein,98.84%
+61,sp|P43405|KSYK_HUMAN Tyrosine-protein kinase SYK OS=Homo sapiens OX=9606 GN=SYK PE=1 SV=1,Non-autophagy protein,98.55%
+62,sp|P05556|ITB1_HUMAN Integrin beta-1 OS=Homo sapiens OX=9606 GN=ITGB1 PE=1 SV=2,Non-autophagy protein,99.41%
+63,sp|P06756|ITAV_HUMAN Integrin alpha-V OS=Homo sapiens OX=9606 GN=ITGAV PE=1 SV=2,Non-autophagy protein,96.88%
+64,sp|P20702|ITAX_HUMAN Integrin alpha-X OS=Homo sapiens OX=9606 GN=ITGAX PE=1 SV=3,Non-autophagy protein,99.65%
+65,sp|O60259|KLK8_HUMAN Kallikrein-8 OS=Homo sapiens OX=9606 GN=KLK8 PE=1 SV=1,Non-autophagy protein,77.60%
+66,sp|Q13201|MMRN1_HUMAN Multimerin-1 OS=Homo sapiens OX=9606 GN=MMRN1 PE=1 SV=3,Non-autophagy protein,96.86%
+67,sp|Q12800|TFCP2_HUMAN Alpha-globin transcription factor CP2 OS=Homo sapiens OX=9606 GN=TFCP2 PE=1 SV=2,Non-autophagy protein,51.85%
+68,sp|P40763|STAT3_HUMAN Signal transducer and activator of transcription 3 OS=Homo sapiens OX=9606 GN=STAT3 PE=1 SV=2,Non-autophagy protein,94.61%
+69,sp|P50552|VASP_HUMAN Vasodilator-stimulated phosphoprotein OS=Homo sapiens OX=9606 GN=VASP PE=1 SV=3,Non-autophagy protein,99.10%
+70,sp|Q9Y261|FOXA2_HUMAN Hepatocyte nuclear factor 3-beta OS=Homo sapiens OX=9606 GN=FOXA2 PE=1 SV=1,Non-autophagy protein,99.49%
+71,sp|Q9NRE1|MMP26_HUMAN Matrix metalloproteinase-26 OS=Homo sapiens OX=9606 GN=MMP26 PE=2 SV=2,Autophagy Protein,77.76%
+72,sp|Q2L4Q9|PRS53_HUMAN Serine protease 53 OS=Homo sapiens OX=9606 GN=PRSS53 PE=1 SV=1,Non-autophagy protein,99.06%
+73,sp|P60763|RAC3_HUMAN Ras-related C3 botulinum toxin substrate 3 OS=Homo sapiens OX=9606 GN=RAC3 PE=1 SV=1,Non-autophagy protein,86.09%
+74,sp|P23193|TCEA1_HUMAN Transcription elongation factor A protein 1 OS=Homo sapiens OX=9606 GN=TCEA1 PE=1 SV=2,Non-autophagy protein,89.42%
+75,sp|P00734|THRB_HUMAN Prothrombin OS=Homo sapiens OX=9606 GN=F2 PE=1 SV=2,Non-autophagy protein,98.24%
