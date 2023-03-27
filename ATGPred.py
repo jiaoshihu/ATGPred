@@ -17,8 +17,8 @@ import os
 import warnings
 warnings.filterwarnings('ignore')
 
-if not os.path.exists("results"):
-    os.makedirs("results")
+if not os.path.exists("Results"):
+    os.makedirs("Results")
 
 def predict(feature):
     scale = joblib.load('./models/scaler.pkl')
@@ -36,7 +36,7 @@ def predict(feature):
         if y_pred[i] == -1:
             df_out.iloc[i, 1] = "Non-autophagy protein"
             df_out.iloc[i, 2] = "%.2f%%" % (y_pred_prob[i, 0] * 100)
-    os.chdir(".\Results")
+    os.chdir("Results")
     df_out.to_csv(args.o,)
     print("Job finished!")
 
